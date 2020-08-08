@@ -1,0 +1,547 @@
+[33mcommit 27c84895d1a603ba5352f8bdd5cfbf245dd9dfac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: plzfday <qkrehddus01@gmail.com>
+Date:   Sat Aug 8 21:57:51 2020 +0900
+
+    Changed theme
+
+[33mcommit 5490b4841d80adda7b4fca8f18e49795fcbc4391[m
+Author: Amy Troschinetz <lexicalunit@lexicalunit.com>
+Date:   Fri Aug 7 23:18:14 2020 -0700
+
+    Adds og:site_name support (#699)
+
+[33mcommit 332a3adaa280a483478d6e30d3886b529db8d43b[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sat Aug 8 06:09:00 2020 +0000
+
+    fix documentation for latest features
+
+[33mcommit ac04e1495476306b79f3f823d19e39c7e7d2fcf2[m
+Author: Amy Troschinetz <lexicalunit@lexicalunit.com>
+Date:   Fri Aug 7 20:07:45 2020 -0700
+
+    Adds configuration for text-color (#694)
+
+[33mcommit 8c0156c1afa69354dae0a72845e5a12401f12ed0[m
+Author: Amy Troschinetz <lexicalunit@lexicalunit.com>
+Date:   Fri Aug 7 20:06:10 2020 -0700
+
+    Adds support for meta keywords (#691)
+
+[33mcommit ed31f79fb6915047193304c8e9b7e80b9bdd9400[m
+Author: Amy Troschinetz <lexicalunit@lexicalunit.com>
+Date:   Fri Aug 7 19:13:54 2020 -0700
+
+    Adds support for meta theme-color (#692)
+
+[33mcommit c4a397509cafd3dd352d964ec92fce83d7810e79[m
+Author: Amy Troschinetz <lexicalunit@lexicalunit.com>
+Date:   Fri Aug 7 19:12:03 2020 -0700
+
+    Adds the missing changelog entries from some recent PRs (#698)
+
+[33mcommit c5f49a65adb2bebd856b2b6d714e5c72fc9a5f05[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Fri Aug 7 21:22:56 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit 6163756baa8683a8b8fd2ee267f1ff40ab372fd3[m
+Author: Amy Troschinetz <lexicalunit@lexicalunit.com>
+Date:   Fri Aug 7 18:18:08 2020 -0700
+
+    Adds kramdown-parser-gfm dependency (#697)
+
+[33mcommit 741f7378bdfa0f995bcdf48ea3c764774c4054f0[m
+Author: Amy Troschinetz <lexicalunit@lexicalunit.com>
+Date:   Fri Aug 7 18:10:02 2020 -0700
+
+    Adds configuration for additional site css (#695)
+
+[33mcommit 3021233850dffef77e24d38029d5616ec9e2966e[m
+Author: Amy Troschinetz <lexicalunit@lexicalunit.com>
+Date:   Fri Aug 7 18:03:44 2020 -0700
+
+    Adds page configuration for description (#690)
+
+[33mcommit 6e2442157fdf51cd64337c5c22ece298c5ffae6d[m
+Author: Amy Troschinetz <amy@lexicalunit.com>
+Date:   Fri Aug 7 14:55:23 2020 -0700
+
+    Update README.md (#696)
+    
+    Fixes a typo
+
+[33mcommit 585129f2f3138df5896ec73de3218c03b48edafa[m
+Author: Lukas Himsel <lukas@himsel.me>
+Date:   Thu Jul 30 09:36:04 2020 +0200
+
+    fix typo (#686)
+
+[33mcommit 9128b5525774cdcaa59b47265ea5a1af4b39223f[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Mon Jul 27 00:27:47 2020 -0400
+
+    Update README.md
+
+[33mcommit c627df96ff0457c3e0ebfbbc183af90ef21f8404[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Mon Jul 20 03:47:05 2020 -0400
+
+    update cover image
+
+[33mcommit bfc6dcdd0acaab8951f268d6e21b5c1732d6a888[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Fri Jul 17 03:22:43 2020 -0400
+
+    Update README.md
+
+[33mcommit fccc38afb369b894e02cf108b2e389433eea7ba6[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Fri Jul 17 03:22:31 2020 -0400
+
+    Update README.md
+
+[33mcommit 8e3b90791bc80d2590fda810e973ec885b386ab8[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Thu Jul 16 17:03:10 2020 -0400
+
+    readme word change
+
+[33mcommit 11b9f23b5b4217fbb2d76dc2c2df75290dd17b38[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Thu Jul 16 13:50:45 2020 -0400
+
+    add link to cover photo
+
+[33mcommit 278dc5efabf24c00f5f7ba90c028f89e498a004c[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Thu Jul 16 13:49:52 2020 -0400
+
+    add cover photo to readme
+
+[33mcommit dfadb533bb2fc6e981354e7869c2f805c4cdee6e[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Mon Jul 13 01:25:25 2020 -0400
+
+    remove CI badge from README, it's noise
+
+[33mcommit e6f909cfc9a6c9f051f22a08da845eb6e5547792[m[33m ([m[1;33mtag: 4.0.1[m[33m)[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Mon Jul 13 01:20:23 2020 -0400
+
+    release gem version 4.0.1 to hotfix staticman UI
+
+[33mcommit 40fc1d99a72783c6cdfda56611cc9c92184dd319[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Mon Jul 13 01:19:16 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit 58835f4098359d8844eb020951db10c83b6271ff[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Mon Jul 13 01:12:03 2020 -0400
+
+    update config to be more clear about staticman params
+
+[33mcommit 68a0e505bfa700f42308e1df964752479f5c4867[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Mon Jul 13 01:09:27 2020 -0400
+
+    Fix staticman UI to work with bootstrap 4; fixes #679 (#681)
+
+[33mcommit 70717c9a6ae2f7d7217a31e5cb9e1e9ce2faee08[m
+Author: Xingchi Li <38049831+nxli@users.noreply.github.com>
+Date:   Sun Jul 12 23:36:53 2020 -0400
+
+    fix jQuery-3.4.1 missing error after enabling Staticman (#680)
+
+[33mcommit 6fd49ce421762f91dc1f509299c803ad5c713c09[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 12 04:25:21 2020 -0400
+
+    Update README.md
+
+[33mcommit 5fbaacb8939d203eb44369d388b18870b81e1a4c[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 12 04:16:56 2020 -0400
+
+    change order of badges in readme
+
+[33mcommit f2b6f5eb8c7579b7890fc706622c83fd1e89aace[m[33m ([m[1;33mtag: 4.0.0[m[33m)[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 12 07:31:45 2020 +0000
+
+    release gem version 4.0.0
+
+[33mcommit 07dcb69406c40b953eb63db6b34523bad2b22118[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 12 03:09:17 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit c509fe77a33bb4df7d6953f88543786d6a497b1f[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 12 03:06:35 2020 -0400
+
+    clarify changelog
+
+[33mcommit 5bec4cfec8045b9efb9dcba599c1102e83fdae66[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 12 03:06:26 2020 -0400
+
+    don't use twitter's large summary card when the image is the website's avatar
+
+[33mcommit c5b7a951335bceee1231089a2cff581e0a371677[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 12 01:43:20 2020 -0400
+
+    Update README.md
+
+[33mcommit f23fe9c4181fe5d61b35059e40e75fd2ba02df72[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 12 01:18:39 2020 -0400
+
+    fix jquery version in staticman (#675)
+
+[33mcommit 941f01fb024cc9943325947312f26d35ec6ee50b[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Tue Jul 7 01:30:59 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit f09523f16efc888b0640f4c7a73cbb90cb20e96a[m
+Author: hsleese <61383286+hsleese@users.noreply.github.com>
+Date:   Tue Jul 7 06:29:55 2020 +0100
+
+    Add orcid and google scholar (#670)
+
+[33mcommit 3250ea5f741afcc4991ad8d61115fc582a98666b[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Tue Jul 7 01:25:57 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit b2b6922a8f67d9c031bcbe317bd65a8c8f9d3877[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Tue Jul 7 05:14:01 2020 +0000
+
+    if share-img not provided, use cover-img or thumbnail. Also make sure all images work with both relative and absolute paths
+
+[33mcommit 88464eb569a01042d4b7d229e36aa3d1da356c8f[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 5 07:31:33 2020 +0000
+
+    cover image will automatically be used as a thumbnail unless a thumbnail is explicitly provided. thumbnail can also be disabled
+
+[33mcommit 70f7345a291ea6876abd779c3613d98890e7f34f[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 5 05:18:31 2020 +0000
+
+    replace 'image' YAML param with 'thumbnail-img' and don't use the thumbnail as the page avatar
+
+[33mcommit 43809d04aec697b227f66a9f8091dd7b622f59ef[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Jul 5 03:53:40 2020 +0000
+
+    make post images in feed smaller in smaller screens
+
+[33mcommit 23322c281f431038307ae53b1ebb617ce0fec795[m
+Author: cketti <ck@cketti.de>
+Date:   Tue Jun 30 21:06:03 2020 +0200
+
+    Add support for Twitter's 'summary_large_image' (#668)
+
+[33mcommit 45ef2fc8c097e22ee1e54052849bd8bface06bff[m
+Author: cketti <ck@cketti.de>
+Date:   Sun Jun 28 21:53:25 2020 +0200
+
+    Use Open Graph type 'article' for blog posts (#669)
+
+[33mcommit 3ecedf0684a3e815389e4a79915fc0c732ea02a1[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Thu Jun 11 23:52:15 2020 -0400
+
+    Update _config.yml
+
+[33mcommit 930fb01aebe0f6c262e484738124d2eb34925a34[m
+Author: Germo Görtz <github.com@aisberg.de>
+Date:   Fri Jun 12 05:51:45 2020 +0200
+
+    improved documentation for round-avatar: true (#658)
+
+[33mcommit 2b4261a8759c372239dd538b4c112817b3fcc39f[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Thu Jun 11 22:56:58 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit b9c5bb97bace75699e72c24c9d189983571ef7fa[m
+Author: Germo Görtz <github.com@aisberg.de>
+Date:   Fri Jun 12 04:53:39 2020 +0200
+
+    Add social share: VK (#657)
+
+[33mcommit 727c7cee3f0753f4f4bf7f683e6521c215c77da3[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sun Jun 7 19:20:12 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit fb0569f4338684d5796d35ebb84b18f2094f33f1[m
+Author: Nikolaos Perrakis <nikperrakis@gmail.com>
+Date:   Mon Jun 8 00:17:44 2020 +0100
+
+    Adding mastodon social network link (#651)
+
+[33mcommit fca85dd2359c2721ca9b9133ea91918b1a1f3c3a[m
+Author: Gabriel <gabriel@potter.fr>
+Date:   Sun May 24 17:27:43 2020 +0200
+
+    Fix CI (#644)
+
+[33mcommit a449a08be42217192c1daad0e1ecc701c0a2ce5f[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 23 16:47:24 2020 -0400
+
+    readme: stress that you have to click "rename" in github settings
+
+[33mcommit 3881cf0be62ab99de4295fa1a4c85b4b254851a5[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Mon May 18 16:58:41 2020 -0400
+
+    remove CI badge
+
+[33mcommit 39a865815428161048326ad20ef885872dab8b9e[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sun May 17 12:04:07 2020 -0400
+
+    Update issue_template.md
+
+[33mcommit 39c4316ee2ff122c54047089ba9aecb89822c686[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Fri May 15 04:42:30 2020 +0000
+
+    fix issue where a menu item with a dropdown as the last menu item did not have proper margin
+
+[33mcommit 85401c9f014ff7d8950b1930e732b73fd6d08043[m[33m ([m[1;33mtag: 3.0.0[m[33m)[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Thu May 7 07:24:36 2020 +0000
+
+    update gem to 3.0.0
+
+[33mcommit ca005f88a3dd8dbbe9f84ab8f432d9e8a25f0881[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Thu May 7 03:22:43 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit 5048f3c942255a190d09d73d3bca1fc3592d5329[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Thu May 7 03:21:35 2020 -0400
+
+    upgrade changelog for v3.0.0
+
+[33mcommit f407e5c3d255b96a3df5388d1387507ff9167b0d[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Thu May 7 02:43:00 2020 -0400
+
+    make menu toggler on mobile same height as pre bootstrap migration
+
+[33mcommit 8c8fb605a07e0d3ffb9e904b2c5afe03f7b91320[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Mon May 4 20:16:23 2020 -0400
+
+    make navbar title same size as pre bootstrap 4
+
+[33mcommit 5dce10ed90bb2fb3fa222a07359c2ad906d75ae5[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sun May 3 13:43:10 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit 30476d8212c883c57f74caf6a3b5ceecdb198c14[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 05:05:37 2020 -0400
+
+    Delete 2020-02-13-hamlet-monologue.md
+
+[33mcommit 7e19a19837af996a6f18f44d064a2c861ea43fb5[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 05:05:31 2020 -0400
+
+    Delete 2020-01-27-dear-diary.md
+
+[33mcommit 6baef53507bd9852ad55a4241dc3f432f0ac943e[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 05:04:57 2020 -0400
+
+    Delete 2020-01-19-soccer.md
+
+[33mcommit 199ee1003f53adb86c51be61abff8c0197d01f50[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 05:04:51 2020 -0400
+
+    Delete 2020-01-15-pirates.md
+
+[33mcommit c75ce8871c5425599f57d2b58f7af887b96169bf[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 05:04:44 2020 -0400
+
+    Delete 2020-01-04-first-post.md
+
+[33mcommit 314b6aed9584fc8593a1f87fb5a587325b9d8098[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 04:20:12 2020 -0400
+
+    Update README.md
+
+[33mcommit 7393222793c8c2ad37cf3dd4b1649d50fb49f8f6[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 04:19:36 2020 -0400
+
+    Update README.md
+
+[33mcommit 7b63ba4d166f4c4e3b01a2375f012795d4513aad[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 04:13:51 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit a59deb2e5af81c097ee19feb3428dead1ffc251a[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 04:10:02 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit e16e78e9b56f9fc1c62ec36a62e3a027782d7738[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 04:07:29 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit 623a1520d7a68d230bd7038aaec641ee85a92b0d[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 03:54:39 2020 -0400
+
+    Update README.md
+
+[33mcommit b02653b0815c343bc492da72822e3d1963d8f50a[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sat May 2 07:39:20 2020 +0000
+
+    add alt to images in navbar
+
+[33mcommit ffbf8717b30cd9ab7f6dba9c598e83ac2653605e[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 03:10:17 2020 -0400
+
+    remove unused css
+
+[33mcommit b01152902bc35135649075d31f8c10ccce85c6e9[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sat May 2 06:38:49 2020 +0000
+
+    rename blog posts
+
+[33mcommit 300abc46eb0df8f138996ad4e2cfaab9e831946a[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sat May 2 06:37:04 2020 +0000
+
+    simplify sample post
+
+[33mcommit abadcd5ede164296c48d8662aa7595797904bd8e[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sat May 2 06:36:45 2020 +0000
+
+    remove googlefonts and use plain CSS instead
+
+[33mcommit 7885c3ab9f1f5727668e940dc6069f1cfd861a94[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 02:14:20 2020 -0400
+
+    Update README.md
+
+[33mcommit ca577ae07755a058636fa5cb83d6505cfcdc9ee0[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 02:12:21 2020 -0400
+
+    Update README.md
+
+[33mcommit 54ca4023738b77d3b7c64f7aded7fc404f00fec7[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Sat May 2 02:10:20 2020 -0400
+
+    upgrade to bootstrap 4, complete rewrite of template (#629)
+
+[33mcommit 67bd8058c74952e6dafa8d9b511c351386161ede[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Wed Apr 29 14:14:49 2020 -0400
+
+    Update README.md
+
+[33mcommit b81d2c7fdf0d616405539a4d39e0d4c6c4f93e48[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Wed Apr 29 12:45:48 2020 -0400
+
+    remove old website from featured users
+
+[33mcommit 6fa41ccd9ece1292f0df3554e0c5f6680c82e818[m[33m ([m[1;33mtag: 2.3.0[m[33m)[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Wed Apr 29 08:42:15 2020 +0000
+
+    upgrade gem to 2.3.0
+
+[33mcommit 1f25488d5673cc5dbf0df32803ae7cd50972e352[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Tue Apr 28 18:43:18 2020 -0400
+
+    update font in custom footer
+
+[33mcommit bd1f95de23b807aa50a81fb1345e2001d3473471[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Tue Apr 28 21:24:45 2020 +0000
+
+    add YAML option footer-extra
+
+[33mcommit f0120841236ca7608bb9f312e904144157261e5a[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Tue Apr 28 20:16:59 2020 +0000
+
+    when linking to an intra-document point, don't scroll too much
+
+[33mcommit 9bf17b2c40471dc6c61b813b13328753d7393622[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Tue Apr 28 20:09:00 2020 +0000
+
+    add option nav-short to have navbar permanently collapsed
+
+[33mcommit b514a803812919442c68a76c233280ddecef92e5[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Tue Apr 28 15:41:23 2020 -0400
+
+    Update CHANGELOG.md
+
+[33mcommit 5a6326941752c58139974e807c3c7f66dcb9f20d[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Tue Apr 28 15:40:00 2020 -0400
+
+    add calendly to config
+
+[33mcommit 65a7997daaefdaa7d13d0273d0c0587d9eaab4a7[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Tue Apr 28 15:39:26 2020 -0400
+
+    fix calendly href
+
+[33mcommit 51de89b63b64932cc2788a7728d8274f39015463[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Tue Apr 28 15:37:46 2020 -0400
+
+    social network links: add calendly support
+
+[33mcommit b640dbcbc0fd8e8b65521e106b94e5ece98d96b1[m
+Author: Dean Attali <dean@attalitech.com>
+Date:   Tue Apr 28 15:34:30 2020 -0400
+
+    social network links: fix bug where RSS was showing up even if turned off
