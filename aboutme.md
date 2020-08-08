@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Software Engineer | Student of Univ. of Warwick IFP
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is **Dongyeon Park**.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+To contact me, please check out the footer of this website.
 
-What else do you need?
+### Education
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* (2020.09 - ) [University of Warwick Internation Foundation Programme](https://warwick.ac.uk/study/ifp)
+* (2017.03 - 2020.02) [Sunrin Internet High School](http://sunrint.hs.kr/)

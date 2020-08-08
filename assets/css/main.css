@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Noto Sans KR', sans-serif, 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -655,7 +655,7 @@ footer .footer-custom-content {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
@@ -822,7 +822,7 @@ pre {
 .highlight pre {
   border: none;
   background: none;
-  margin: 0;
+  margin: 1.875rem 0;
 }
 .highlight > pre {
   background-image: linear-gradient(
